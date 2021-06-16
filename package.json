@@ -1,0 +1,25 @@
+{
+  "name": "Caps-phase-3-vendor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TJSOmega/Caps-phase-3-vendor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TJSOmega/Caps-phase-3-vendor/issues"
+  },
+  "homepage": "https://github.com/TJSOmega/Caps-phase-3-vendor#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "faker": "^5.5.3"
+  }
+}
